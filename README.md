@@ -1,7 +1,7 @@
 # Chapter 1 Go-lang Basic (GLNG)
 Go Programming Introduction
 
-**Challenge 3**
+**Challenge 4**
 
 ## Biodata
 > ID Regis = 1955617840-1126
